@@ -52,7 +52,7 @@ func main() {
     ssid := "MyWiFiNetwork"
     password := "MyPassword```
 
-You can change the SSID and Password names to dxxvidCode as an example.
+# You can change the SSID and Password names to dxxvidCode as an example.
 
 # Lets start adding ifs, connect system, fail connect system and simulations!
 
